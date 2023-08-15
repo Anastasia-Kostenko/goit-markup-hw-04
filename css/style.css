@@ -646,6 +646,7 @@ body {
 .project-box:hover .overlay {
   transform: translateY(0%);
 }
+
 .project-box:focus .overlay {
   transform: translateY(0%);
 }
